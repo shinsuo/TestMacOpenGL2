@@ -10,6 +10,7 @@
 #include <time.h>
 #include <GLUT/GLUT.h>
 
+
 #define VERTICES     0
 #define INDICES      1
 #define NUM_BUFFERS  2
